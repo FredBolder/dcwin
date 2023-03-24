@@ -92,3 +92,13 @@ footer {
     }
 }
 
+.download_links {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.email {
+    margin-top: 2rem;
+}
